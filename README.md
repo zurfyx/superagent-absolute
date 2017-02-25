@@ -44,6 +44,8 @@ it('should should display "It works!"', (done) => {
 });
 ```
 
+Requested absolute URLs must start with `/`, otherwise they will be treated as relative.
+
 
 ## License
 
