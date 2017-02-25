@@ -3,9 +3,16 @@
 > Superagent with default absolute URLs.
 
 [![Build Status](https://travis-ci.org/zurfyx/superagent-absolute.svg?branch=master)](https://travis-ci.org/zurfyx/superagent-absolute)
+[![npm version](https://badge.fury.io/js/superagent-absolute.svg)](https://badge.fury.io/js/superagent-absolute)
 
-Tired of writing `http://localhost/` in front of every [superagent](https://github.com/visionmedia/superagent) request?
+Tired of writing `http://localhost` in front of every [superagent](https://github.com/visionmedia/superagent) request?
 With superagent absolute you'll only write it once per host in your whole environment.
+
+## Install
+
+```
+npm install superagent-absolute
+```
 
 ## Usage
 
