@@ -46,6 +46,9 @@ it('should should display "It works!"', (done) => {
 
 Requested absolute URLs must start with `/`, otherwise they will be treated as relative.
 
+## Related
+
+- [fetch-absolute](https://github.com/zurfyx/fetch-absolute) - Fetch with default absolute URLs.
 
 ## License
 
